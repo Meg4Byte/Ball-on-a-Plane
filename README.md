@@ -1,2 +1,5 @@
-# Robotics
-Repository of control theory and robotics projects 
+# Ball on a Plane
+
+## TO DO
+
+  Coming when it's ready
